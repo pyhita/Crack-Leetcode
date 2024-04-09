@@ -1,4 +1,4 @@
-package com.pyhita.bytedance.odd_rising_even_falling_list;
+package com.pyhita.company.bytedance.odd_rising_even_falling_list;
 
 import com.pyhita.LinkedList.entity.ListNode;
 import com.pyhita.utils.LinkedListUtils;
